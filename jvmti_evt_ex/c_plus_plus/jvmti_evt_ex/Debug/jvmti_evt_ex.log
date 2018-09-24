@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018-09-24 18:52:59。
+     1>项目“F:\java.project\jvmti_evt_ex\jvmti_evt_ex\jvmti_evt_ex\jvmti_evt_ex.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“F:\java.project\jvmti_evt_ex\jvmti_evt_ex\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\jvmti_evt_ex.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\jvmti_evt_ex.dll.embed.manifest.res" Debug\jvmti_evt_ex_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\java.project\jvmti_evt_ex\jvmti_evt_ex\Debug\jvmti_evt_ex.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\jvmti_evt_ex.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\java.project\jvmti_evt_ex\jvmti_evt_ex\Debug\jvmti_evt_ex.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\java.project\jvmti_evt_ex\jvmti_evt_ex\Debug\jvmti_evt_ex.lib" /MACHINE:X86 /DLL Debug\jvmti_evt_ex.dll.embed.manifest.res
+     1>LINK : error LNK2001: 无法解析的外部符号 __DllMainCRTStartup@12
+     1>F:\java.project\jvmti_evt_ex\jvmti_evt_ex\Debug\jvmti_evt_ex.dll : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“F:\java.project\jvmti_evt_ex\jvmti_evt_ex\jvmti_evt_ex\jvmti_evt_ex.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.28

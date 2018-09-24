@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018-09-24 20:45:59。
+     1>项目“F:\java.project\jvmti_evt_ex\jvmti_evt_ex\c_plus_plus\jvmti_evt_ex\jvmti_evt_ex.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“x64\Release-64\jvmti_evt_ex.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“x64\Release-64\jvmti_evt_ex.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\Java\jdk1.8.0_131\include\win32" /I"C:\Program Files\Java\jdk1.8.0_131\include" /Zi /nologo /W1 /WX- /O2 /D _WINDLL /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release-64\\" /Fd"x64\Release-64\vc100.pdb" /Gd /TP /errorReport:prompt jvmti_evt_ex.cpp
+         jvmti_evt_ex.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\java.project\jvmti_evt_ex\jvmti_evt_ex\c_plus_plus\x64\Release-64\jvmti_evt_ex-release-amd64-x64.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release-64\jvmti_evt_ex-release-amd64-x64.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"F:\java.project\jvmti_evt_ex\jvmti_evt_ex\c_plus_plus\x64\Release-64\jvmti_evt_ex-release-amd64-x64.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\java.project\jvmti_evt_ex\jvmti_evt_ex\c_plus_plus\x64\Release-64\jvmti_evt_ex-release-amd64-x64.lib" /MACHINE:X64 /DLL "x64\Release-64\jvmti_evt_ex.obj"
+            正在创建库 F:\java.project\jvmti_evt_ex\jvmti_evt_ex\c_plus_plus\x64\Release-64\jvmti_evt_ex-release-amd64-x64.lib 和对象 F:\java.project\jvmti_evt_ex\jvmti_evt_ex\c_plus_plus\x64\Release-64\jvmti_evt_ex-release-amd64-x64.exp
+         jvmti_evt_ex.vcxproj -> F:\java.project\jvmti_evt_ex\jvmti_evt_ex\c_plus_plus\x64\Release-64\jvmti_evt_ex-release-amd64-x64.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\java.project\jvmti_evt_ex\jvmti_evt_ex\c_plus_plus\x64\Release-64\jvmti_evt_ex-release-amd64-x64.dll;#2" /manifest "x64\Release-64\jvmti_evt_ex-release-amd64-x64.dll.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“x64\Release-64\jvmti_evt_ex.unsuccessfulbuild”。
+         正在对“x64\Release-64\jvmti_evt_ex.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\java.project\jvmti_evt_ex\jvmti_evt_ex\c_plus_plus\jvmti_evt_ex\jvmti_evt_ex.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.57
